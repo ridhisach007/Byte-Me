@@ -1,0 +1,8 @@
+MENU
+Pizza,Main Course,In stock,200
+Special Burger,Snacks,In stock,40
+Roti,Breads,Sold out,10
+Rajma Chawal,Main Course,In stock,50
+Pasta,Snacks,In stock,50
+Pav Bhaji,Snacks,In stock,100
+Dahi,Snacks,In stock,20
